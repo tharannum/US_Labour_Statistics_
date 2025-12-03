@@ -7,6 +7,9 @@
 
 [📊 View Live Sales Excel File](https://1drv.ms/x/c/aaacf1147212301a/ERb62qHGaDlKo38DDZB2-i0Bkw621fOXYwJGvf_Yd91A5Q?email=tharannumnakwa%40gmai.com&e=4ME6Ks)
 
+[![US Labour Dashboard](https://raw.githubusercontent.com/tharannum/US_Labour_Statistics_/main/Dashboard.jpg)](https://raw.githubusercontent.com/tharannum/US_Labour_Statistics_/main/Dashboard.jpg)
+
+
 ---
 
 ## 2. Data Description
